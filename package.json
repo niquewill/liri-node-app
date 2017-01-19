@@ -1,0 +1,33 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in paramaters and gives you back data. The following npm packages are used: twitter, spotify, request.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niquewill/liri-node-app.git"
+  },
+  "keywords": [
+    "node",
+    "liri",
+    "twitter",
+    "spotify",
+    "request",
+    "constructors",
+    "javascript"
+  ],
+  "author": "Monique Hawkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niquewill/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/niquewill/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  }
+}
